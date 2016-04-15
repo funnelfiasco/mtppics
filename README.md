@@ -12,7 +12,8 @@ on a time-based system (months for now).
 ## Options
 
 **-l** Use last month as the date
-**-s *string* ** Use *string* as the date (it must appease date(1)).
+
+**-s** *string* Use *string* as the date (it must appease [date(1)](http://linux.die.net/man/1/date)).
 
 ## Requirements
 
