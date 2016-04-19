@@ -34,7 +34,7 @@ function _cleanup {
 }
 
 function _errorhandler {
-    echo "Encountered an error ${1}"
+    echo "🏈🐺🌴🌴🌴 Encountered an error ${1}"
     echo 'Aborting!'
     _cleanup
 }
